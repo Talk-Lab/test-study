@@ -1,0 +1,17 @@
+# MyfirstStudy
+#
+# stagebook treatment file — the study's design lives here.
+# Reference: https://github.com/deliberation-lab/stagebook
+
+treatments:
+  - name: "MyfirstStudy (draft)"
+    playerCount: 1
+    introSequences: []
+    gameStages:
+      - name: welcome
+        duration: 120
+        elements:
+          - type: prompt
+            name: welcome
+            file: prompts/welcome.prompt.md
+          - type: submitButton
