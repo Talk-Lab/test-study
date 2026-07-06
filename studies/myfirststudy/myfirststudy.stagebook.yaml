@@ -3,8 +3,13 @@
 # stagebook treatment file — the study's design lives here.
 # Reference: https://github.com/deliberation-lab/stagebook
 
+introSequences:
+  - name: test
+    introSteps:
+      
+
 treatments:
-  - name: "MyfirstStudy (draft)"
+  - name: MyfirstStudy_draft
     playerCount: 1
     introSequences: []
     gameStages:
