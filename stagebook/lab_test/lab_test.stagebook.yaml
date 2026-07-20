@@ -1,3 +1,13 @@
+consent:
+  - name: default
+    steps:
+      - name: Consent
+        elements:
+          - type: prompt
+            file: intro/consent.prompt.md
+          - type: submitButton
+            buttonText: "I consent"
+
 introSequences:
   - name: default
     introSteps:
@@ -11,6 +21,7 @@ introSequences:
 treatments:
   - name: survey
     playerCount: 1
+    compatibleIntroSequences: [default]
     gameStages:
       - name: questions
         duration: 600
@@ -33,5 +44,11 @@ treatments:
           - type: prompt
             file: exit/movie_lover.prompt.md
             name: movie_lover
+          - type: submitButton
+            buttonText: "Continue"
+      - name: Debrief
+        elements:
+          - type: prompt
+            file: exit/debrief.prompt.md
           - type: submitButton
             buttonText: "Finish"

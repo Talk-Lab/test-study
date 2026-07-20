@@ -1,3 +1,13 @@
+consent:
+  - name: default
+    steps:
+      - name: Consent
+        elements:
+          - type: prompt
+            file: intro/consent.prompt.md
+          - type: submitButton
+            buttonText: "I consent"
+
 introSequences:
   - name: default
     introSteps:
@@ -11,6 +21,7 @@ introSequences:
 treatments:
   - name: compare
     playerCount: 1
+    compatibleIntroSequences: [default]
     gameStages:
       - name: first video
         duration: 600
@@ -39,3 +50,11 @@ treatments:
             name: liking_2
           - type: submitButton
             buttonText: "Next"
+
+    exitSequence:
+      - name: Debrief
+        elements:
+          - type: prompt
+            file: exit/debrief.prompt.md
+          - type: submitButton
+            buttonText: "Finish"

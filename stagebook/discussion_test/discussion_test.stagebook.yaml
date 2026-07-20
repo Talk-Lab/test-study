@@ -11,6 +11,7 @@ introSequences:
 treatments:
   - name: discussion
     playerCount: 2
+    compatibleIntroSequences: [default]
     gameStages:
       - name: video_discussion
         duration: 120
