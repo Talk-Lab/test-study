@@ -1,0 +1,132 @@
+{
+  "preregistrations": {
+    "total": 8,
+    "treatmentBreakdown": {
+      "discussion": 8
+    },
+    "percentComplete": 37.5
+  },
+  "participants": {
+    "total": 8,
+    "completeIntroSteps": 8,
+    "enterLobby": 8,
+    "beginGame": 8,
+    "finishGame": 8,
+    "complete": 3,
+    "ipTimezoneBreakdown": {
+      "undefined": 8
+    },
+    "ipCountryBreakdown": {
+      "undefined": 8
+    },
+    "possibleVPN": {
+      "false": 8
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 8
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 8
+    },
+    "browserBreakdown": {
+      "Chrome": 7,
+      "Safari": 1
+    },
+    "browserVersionBreakdown": {
+      "Chrome 148.0.0.0": 1,
+      "Chrome 152.0.0.0": 6,
+      "Safari 26.6.2": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "17c5a2ec-f2b0-4945-858d-dcecaab9cf3d",
+    "67c4659e-76d0-4038-8620-1d2aa61cb7b9",
+    "b1469ba4-2e1f-4b72-8175-95b617d939fa"
+  ],
+  "timings": {
+    "intro": {
+      "max": 128.688,
+      "min": 22.406,
+      "mean": 71.41475,
+      "median": 64.936
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "lobby": {
+      "max": 84.292,
+      "min": 1.705,
+      "mean": 24.8675,
+      "median": 15.82
+    },
+    "game": {
+      "max": 120.061,
+      "min": 107.789,
+      "mean": 115.00425000000001,
+      "median": 116.0835
+    },
+    "exit": {
+      "max": 1047.373,
+      "min": 8.809,
+      "mean": 368.945,
+      "median": 50.653
+    },
+    "totalTime": {
+      "max": 1380.414,
+      "min": 140.709,
+      "mean": 580.2315,
+      "median": 247.49249999999998
+    },
+    "totalActiveTime": {
+      "max": 1380.414,
+      "min": 140.709,
+      "mean": 580.2315,
+      "median": 247.49249999999998
+    }
+  },
+  "connections": {
+    "max": 3,
+    "min": 1,
+    "mean": 1.375,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "maybe": 0.5,
+      "undefined": 0.5
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.5,
+      "undefined": 0.5
+    },
+    "adequateTime": {
+      "adequate": 0.5,
+      "undefined": 0.5
+    },
+    "clearInstructions": {
+      "1": 0.5,
+      "undefined": 0.5
+    },
+    "videoQuality": {
+      "4": 0.5,
+      "undefined": 0.5
+    },
+    "joiningProblems": {
+      "yes": 0.5,
+      "undefined": 0.5
+    },
+    "technicalProblems": {
+      "yes": 0.5,
+      "undefined": 0.5
+    },
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "assetsRepoSha": "53c4156850c14cbf4583a471257f6127b933354d"
+}
