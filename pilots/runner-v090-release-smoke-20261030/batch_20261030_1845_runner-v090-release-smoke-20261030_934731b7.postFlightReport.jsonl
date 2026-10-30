@@ -1,0 +1,104 @@
+{
+  "preregistrations": {
+    "total": 0,
+    "treatmentBreakdown": {},
+    "percentComplete": null
+  },
+  "participants": {
+    "total": 5,
+    "completeIntroSteps": 0,
+    "enterLobby": 0,
+    "beginGame": 0,
+    "gameEnded": 0,
+    "complete": 0,
+    "ipTimezoneBreakdown": {
+      "undefined": 5
+    },
+    "ipCountryBreakdown": {
+      "undefined": 5
+    },
+    "possibleVPN": {
+      "false": 5
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 5
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 5
+    },
+    "browserBreakdown": {
+      "Chrome": 4,
+      "Edge": 1
+    },
+    "browserVersionBreakdown": {
+      "Chrome 156.0.0.0": 4,
+      "Edge 156.0.0.0": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [],
+  "timings": {
+    "intro": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalTime": {
+      "max": 0,
+      "min": 0,
+      "mean": 0,
+      "median": 0
+    },
+    "totalActiveTime": {
+      "max": 0,
+      "min": 0,
+      "mean": 0,
+      "median": 0
+    }
+  },
+  "connections": {
+    "max": 9,
+    "min": 1,
+    "mean": 3.8,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "joiningDetail": [],
+    "technicalDetail": [],
+    "textExpansion": []
+  },
+  "assetsRepoSha": "53cc0728510aeaec3a08098d6ac48fb3da1b0c03"
+}
