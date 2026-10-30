@@ -1,0 +1,131 @@
+{
+  "preregistrations": {
+    "total": 12,
+    "treatmentBreakdown": {
+      "survey": 12
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 12,
+    "completeIntroSteps": 12,
+    "enterLobby": 12,
+    "beginGame": 12,
+    "gameEnded": 12,
+    "complete": 12,
+    "ipTimezoneBreakdown": {
+      "undefined": 12
+    },
+    "ipCountryBreakdown": {
+      "undefined": 12
+    },
+    "possibleVPN": {
+      "false": 12
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 12
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 12
+    },
+    "browserBreakdown": {
+      "Chrome": 12
+    },
+    "browserVersionBreakdown": {
+      "Chrome 145.0.7632.6": 12
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "612ce44f-a86b-4367-8978-a6321b248023",
+    "cb4aedd3-c437-4b94-82ea-c484a770bcc8",
+    "55a1a82e-7aee-4f64-9d17-4e73fd5193b4",
+    "e1f87616-cefb-4a43-8f60-5fcee1d206da",
+    "60e14dc7-97b5-4f44-802d-17de23e1f9d0",
+    "57a459c6-6dbb-4afa-92c9-bfb6cdff354a",
+    "bff43c8d-8465-4856-9ca1-e61e5464b622",
+    "c3d386fa-4f1f-4270-b822-f80f43026e78",
+    "e588a8b5-888f-434a-9d87-80e34274dc86",
+    "bd2a2e1a-96d3-4d04-90df-17e26dd3f528",
+    "5170a5e3-f69f-4288-af8d-62d26951b722",
+    "fcbc286a-104d-4dc0-8079-10efbe882a31"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1.52,
+      "min": 1.428,
+      "mean": 1.4597499999999999,
+      "median": 1.4555
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "lobby": {
+      "max": 2.046,
+      "min": 0.494,
+      "mean": 1.7940833333333337,
+      "median": 2.0225
+    },
+    "game": {
+      "max": 488.443,
+      "min": 3.061,
+      "mean": 64.834,
+      "median": 3.2675
+    },
+    "exit": {
+      "max": 2.311,
+      "min": 1.757,
+      "mean": 1.824166666666667,
+      "median": 1.778
+    },
+    "totalTime": {
+      "max": 494.31999999999994,
+      "min": 6.739999999999999,
+      "mean": 69.912,
+      "median": 8.5235
+    },
+    "totalActiveTime": {
+      "max": 494.31999999999994,
+      "min": 6.739999999999999,
+      "mean": 69.912,
+      "median": 8.5235
+    }
+  },
+  "connections": {
+    "max": 7,
+    "min": 2,
+    "mean": 2.6666666666666665,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 1
+    },
+    "adequateCompensation": {
+      "unanswered": 1
+    },
+    "adequateTime": {
+      "unanswered": 1
+    },
+    "clearInstructions": {
+      "4": 1
+    },
+    "videoQuality": {
+      "unanswered": 1
+    },
+    "joiningProblems": {
+      "unanswered": 1
+    },
+    "technicalProblems": {
+      "no": 1
+    },
+    "joiningDetail": [],
+    "technicalDetail": [],
+    "textExpansion": []
+  },
+  "assetsRepoSha": "53cc0728510aeaec3a08098d6ac48fb3da1b0c03"
+}
