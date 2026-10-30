@@ -1,4 +1,5 @@
 ---
+stagebook: "0.35"
 type: slider
 min: 0
 max: 100

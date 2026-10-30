@@ -1,3 +1,4 @@
+stagebook: "0.35"
 consent:
   - name: default
     steps:
